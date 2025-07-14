@@ -115,7 +115,7 @@ Curated list of advanced Shodan queries for discovering exposed assets, dashboar
 
 *Aditya Kumawat*  
 Cybersecurity Student | Bug Bounty Learner  
-🔗 [GitHub Profile](https://github.com/adityakumawat2005)
+🔗 [GitHub Profile](https://github.com/Adyrex)
 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-kumawat-624219287)
 
 ---
